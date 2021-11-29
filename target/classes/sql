@@ -1,0 +1,7 @@
+CREATE TABLE `mybatis`.`new_table` (
+  `s_id` INT NOT NULL AUTO_INCREMENT,
+  `s_name` VARCHAR(45) NOT NULL,
+  `s_email` VARCHAR(45) NOT NULL,
+  `s_password` VARCHAR(45) NOT NULL,
+  `s_salary` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`s_id`));
